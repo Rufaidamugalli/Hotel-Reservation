@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="261eb455-5530-4802-bc41-e7075517fda1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/mugallirufaida/BookingRequestTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="261eb455-5530-4802-bc41-e7075517fda1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -149,14 +147,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HotelReservations" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HotelReservations" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mugallirufaida" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -296,7 +286,7 @@
       <workItem from="1560441746628" duration="11937000" />
       <workItem from="1560521690592" duration="496000" />
       <workItem from="1560522670822" duration="11369000" />
-      <workItem from="1560706941440" duration="7675000" />
+      <workItem from="1560706941440" duration="7956000" />
     </task>
     <servers />
   </component>
@@ -333,7 +323,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45021000" />
+    <option name="totallyTimeSpent" value="45302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />

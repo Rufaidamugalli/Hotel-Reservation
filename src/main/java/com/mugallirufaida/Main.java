@@ -2,6 +2,7 @@ package com.mugallirufaida;
 
 
 public class Main {
+    // this class is for testing the output
     public static void main(String[] args) {
 
 
